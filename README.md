@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, I'm João Jesus 
 
-<!--
-**jjesus-belodigital/jjesus-belodigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### []() Working as a **Web Developer** @ [Belo Digital](https://www.belodigital.com/)
 
-Here are some ideas to get you started:
+These are the languages and tools I am using 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-E91E63?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament PHP](https://img.shields.io/badge/FilamentPHP-10B981?style=for-the-badge&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=veed&logoColor=white)
+![Herd](https://img.shields.io/badge/Herd-FA5C5C?style=for-the-badge&logo=php&logoColor=white)
+![DBngin](https://img.shields.io/badge/DBngin-6B21A8?style=for-the-badge&logo=mysql&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-FF9900?style=for-the-badge&logo=mysql&logoColor=white)
+![Saloon](https://img.shields.io/badge/Saloon-8B4513?style=for-the-badge&logo=apache&logoColor=white) 
+
